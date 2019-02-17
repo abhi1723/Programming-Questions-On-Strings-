@@ -11,6 +11,6 @@ int main()
     else if(ascii_form_of_letter>96 &&ascii_form_of_letter<123)
         cout<<"LOWERCASE";
     else
-        cout<<"Invalid";
+        cout<<"Invalid"<<endl;
     return 0;
 }
